@@ -1,5 +1,3 @@
-import swal from 'sweetalert';  
-
 console.log('%cTasks' ,'color: blue; background-color: red; font-size: 70px;'  )
 
 function remove(array , element){
